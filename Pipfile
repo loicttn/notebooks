@@ -9,6 +9,7 @@ verify_ssl = true
 jupyter = "*"
 requests = "*"
 z3-solver = "*"
+python-chess = "*"
 
 [requires]
 python_version = "3.7"
