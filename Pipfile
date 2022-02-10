@@ -12,7 +12,7 @@ z3-solver = "*"
 python-chess = "*"
 matplotlib = "*"
 numpy = "*"
-tensorflow = "==2.0.0"
+tensorflow = "==2.5.3"
 networkx = "*"
 
 [requires]
